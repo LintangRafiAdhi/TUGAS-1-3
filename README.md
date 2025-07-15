@@ -2,7 +2,7 @@
 
 |Nama|NIM|Kelas|Mata Kuliah|
 |----|---|-----|------|
-|**Radityatama Nugraha**|**312310644**|**TI.23.A6**|**Pemrograman Web 2**|
+|**Lintang Rafi Adhi**|**312310697**|**TI.23.A6**|**Pemrograman Web 2**|
 
 # Praktikum 1: PHP Framework (Codeigniter)
 ## Tujuan
